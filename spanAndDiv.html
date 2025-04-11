@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>span and div</title>
+</head>
+
+<body>
+    <!-- this doesn't work since span can only wrap text -->
+    <span style="background-color: red;">
+        <h4>This is a inline container</h4>
+    </span>
+
+    <!-- this works since span is wrapping text -->
+    <h1><span style="background-color: red;">This is a inline container</span></h1>
+
+
+    <!-- div can wrap any element or can be under any element -->
+    <div style="background-color: aqua;">
+        <h1>This is block container</h1>
+    </div>
+
+    <h1>
+        <div style="background-color: aquamarine;">This is a block container inside h1 tag</div>
+    </h1>
+
+</body>
+
+</html>
