@@ -1,0 +1,22 @@
+
+button:hover{
+    font-size: 1.5rem;
+    background-color: rgb(169, 92, 241);
+    border-radius: 5px;
+}
+
+button:active{
+    font-size: 1.5rem;
+    background-color: rgb(238, 79, 146);
+    border-radius: 5px;
+}
+
+#container p{
+    font-size: 2rem;
+    background-color: yellow;
+    display: none;
+}
+
+#container:hover p{
+    display: block;
+}

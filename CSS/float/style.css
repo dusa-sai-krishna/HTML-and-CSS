@@ -1,0 +1,16 @@
+
+body{
+
+    border: 3px solid black;
+    display: flow-root;
+}
+
+#img1{
+    height: 150px;
+    float: left;
+}
+
+#img2{
+    height: 150px;
+    float:right;
+}

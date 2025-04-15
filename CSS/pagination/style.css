@@ -1,0 +1,21 @@
+#pagination{
+    text-align: center;
+}
+
+
+#pagination a{
+    text-decoration: none;
+    color: gray;
+    padding: 7px;
+    border-radius: 5px;
+    color: rgb(96, 93, 90);
+}
+
+#current{
+    background-color: greenyellow;
+}
+
+#pagination a:not(#current):hover{
+    background-color: rgb(205, 196, 196);
+}
+

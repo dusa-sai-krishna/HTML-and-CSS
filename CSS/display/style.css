@@ -1,0 +1,16 @@
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    display: none;
+    font-size: 2em;
+
+}
+span{
+    height: 100px;
+    width:100px;
+    background-color: purple;
+    font-size: 2em;
+    display: none;
+}

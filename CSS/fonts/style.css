@@ -1,0 +1,20 @@
+body{
+
+    background-color: black;
+}
+
+h1{
+    font-family: "Poetsen", 'Courier New';
+    color: white;
+    font-weight: bold;
+
+
+}
+
+p{
+    font-family: "Itim", "verdana";
+    color: beige;
+    /* font size to be 110% of original */
+    font-size: 1.1em; 
+    font-style: italic;
+}

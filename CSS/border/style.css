@@ -1,0 +1,14 @@
+
+h1{
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 50px;
+}
+
+p{
+    /* short hand border property */
+    /* width style color */
+    border-left: 3px  dashed red;
+    border-right: 3px groove black
+}

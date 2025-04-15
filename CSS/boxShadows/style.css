@@ -1,0 +1,8 @@
+
+#box1{
+    background-color: bisque;
+    height: 100px;
+    width: 100px;
+    /* right offset, down offset, blur amount, color of the blur */
+    box-shadow: 3px 3px 5px red;
+}

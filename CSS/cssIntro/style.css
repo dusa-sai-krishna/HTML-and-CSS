@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+}
+
+/* Styles the text of a tag whose id is p1 */
+#p1{
+    color:aqua
+}
+
+#p2{
+    color: yellowgreen
+}
+
+/* This will style text of those tags which belong to customer class */
+.customer{ 
+    color: beige
+}
